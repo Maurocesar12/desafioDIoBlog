@@ -138,6 +138,3 @@ And lastly if you’d like to remove Cypress entirely, delete the entire `cypres
 ```bash
 npm uninstall cypress
 ```
-=======
-# desafioDIoBlog
->>>>>>> fbd68bf2f40ffee660163403a3ece1e3d020d76f
